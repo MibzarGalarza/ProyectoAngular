@@ -26,7 +26,7 @@ body {
 #header {
 	background: #F6F6F6;
 	background: -webkit-linear-gradient( #f6f6f6, white);
-	background: linear-gradient( #f6f6f6, white);
+	background: linear-gradient( #5f5e5e, white);
 	clear: both;
 	border-top: 5px solid #EDEDED;
 	min-height: 100px;
@@ -289,7 +289,7 @@ body {
 }
 
 #header nav ul.nav-top li a, #header nav ul.nav-top li span {
-	color: #999;
+	color: #110404;
 	font-size: 0.9em;
 	padding: 6px 10px;
 }
@@ -2742,7 +2742,7 @@ html.dark pre {
 	border-color: #282d36;
 	color: #777777;
 }
-
+Posts
 html.dark .show-grid [class*="col-md-"] .show-grid-block {
 	background-color: #282d36;
 	border-color: #282d36;
